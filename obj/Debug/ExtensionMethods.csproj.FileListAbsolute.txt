@@ -1,0 +1,4 @@
+c:\users\deen.core\documents\visual studio 2012\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.dll
+c:\users\deen.core\documents\visual studio 2012\Projects\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+c:\users\deen.core\documents\visual studio 2012\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.dll
+c:\users\deen.core\documents\visual studio 2012\Projects\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
